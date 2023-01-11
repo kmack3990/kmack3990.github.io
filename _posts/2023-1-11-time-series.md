@@ -5,7 +5,7 @@ date: 2023-1-11
 preview: true
 ---
 
-After 12 intense weeks of long nights and no weekends learning the in’s and out’s of data science at BrainStation, I submitted my capstone project on Wind Power Forecasting. I am calling this my initial report.  As there is still quite a bit more that I want to do with this project.  My preliminary findings can be found here, Github. 
+After 12 intense weeks of long nights and no weekends learning the in’s and out’s of data science at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp), I submitted my capstone project on Wind Power Forecasting. I am calling this my initial report.  As there is still quite a bit more that I want to do with this project.  My preliminary findings can be found here at my [Github](https://github.com/kmack3990).
 
 
 ### Picking my Project Topic and Time Series Modeling
