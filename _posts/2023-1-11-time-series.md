@@ -34,7 +34,7 @@ The data signals in this project had no trend, seasonality, or obvious cyclical 
 
 I adapted a process from some of Jason Brownlee’s work on time series analysis.  The concept uses a shifting window to read through a time series, frame by frame, to predict a certain number of time steps out from a number of previous time steps.  This allowed me to transform my dataset to establish an independent and dependent variable for machine learning.  
 
-![_config.yml](/images/walk_forward_validation_function.jpg)
+![_config.yml](/images/walk_forward_validation_function)
 
 Using Brownlee’s shifting window method and a walk forward validation process, I fit a variety of machine learning models.  I received the best results validating Random Forest Regressor Models and vanilla LSTM models.  
 
@@ -53,8 +53,3 @@ Shouman, E. R. M. (2022, May 13). Wind power forecasting models. IntechOpen. Ret
 
 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
