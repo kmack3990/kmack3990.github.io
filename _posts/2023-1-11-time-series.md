@@ -30,11 +30,11 @@ In my capstone project, I analyzed power and meteorological metrics measured fro
 
 The data signals in this project had no trend, seasonality, or obvious cyclical pattern.  The nature of the data made traditional time series models such as ARIMA models like the SARIMAX have little predictive power.  
 
-![_config.yml](/images/noisy_data)
+![_config.yml](/images/noisy_data.jpg)
 
 I adapted a process from some of Jason Brownlee’s work on time series analysis.  The concept uses a shifting window to read through a time series, frame by frame, to predict a certain number of time steps out from a number of previous time steps.  This allowed me to transform my dataset to establish an independent and dependent variable for machine learning.  
 
-![_config.yml](/images/walk_forward_validation_function)
+![_config.yml](/images/walk_forward_validation_function.jpg)
 
 Using Brownlee’s shifting window method and a walk forward validation process, I fit a variety of machine learning models.  I received the best results validating Random Forest Regressor Models and vanilla LSTM models.  
 
