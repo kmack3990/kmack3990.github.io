@@ -4,13 +4,11 @@ title: What I Learned About Time Series Data?
 date: 2023-1-11
 preview: true
 ---
+![_config.yml](/images/offshore-wind-farm.jpg)
 
 After 12 intense weeks of long nights and no weekends learning the in’s and out’s of data science at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp), I submitted my capstone project on Wind Power Forecasting. I am calling this my initial report.  As there is still quite a bit more that I want to do with this project.  My preliminary findings can be found here at my [Github](https://github.com/kmack3990).
 
-
 ### Picking my Project Topic and Time Series Modeling
-
-![_config.yml](/images/offshore-wind-farm.jpg)
 
 Everyday we are seeing the impacts of climate change from droughts in the Western United States to coral bleaching throughout our international waters.  The consensus is that we need to take drastic action to reduce our carbon footprint and our reliance on fossil fuels.  I wanted to find a project that would develop a tool set in data science that can help to solve this current environmental predicament.  
 
