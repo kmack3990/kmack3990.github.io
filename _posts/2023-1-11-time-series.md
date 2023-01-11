@@ -34,9 +34,9 @@ The data signals in this project had no trend, seasonality, or obvious cyclical 
 
 I adapted a process from some of Jason Brownlee’s work on time series analysis.  The concept uses a shifting window to read through a time series, frame by frame, to predict a certain number of time steps out from a number of previous time steps.  This allowed me to transform my dataset to establish an independent and dependent variable for machine learning.  
 
-![_config.yml](/images/walk_forward_validation_function.jpg)
-
 Using Brownlee’s shifting window method and a walk forward validation process, I fit a variety of machine learning models.  I received the best results validating Random Forest Regressor Models and vanilla LSTM models.  
+
+![_config.yml](/images/walk_forward_validation_function.jpg)
 
 My sticking point right now is developing a pipeline and grid search to comprehensively tune these models.  Although I have developed methods to tune one hyperparameter at a time using the walk forward validation techniques, I have yet to fully implement a machine learning pipeline to comprehensively attack the variety of hyperparameters.  Setting up a pipeline and grid search is generally straightforward with machine learning data that has independent variables and dependent variables that are not related through the dimension of time.  I am still developing strategies to incorporate the walk forward validation in time series data to a machine learning pipeline.  
 
