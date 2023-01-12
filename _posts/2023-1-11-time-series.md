@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I Learned About Time Series Data?
+title: What I Learned About Time Series Analysis?
 date: 2023-1-11
 preview: true
 ---
