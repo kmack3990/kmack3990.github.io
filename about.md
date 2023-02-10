@@ -18,7 +18,7 @@ Some of the projects that I completed to earn the diploma included:
 - a data wrangling endeavor to visualize a large dataset from Google Books Ngram
 - the production of predictive models to forecast wind power from an EDP Renewables wind farm. 
 
-I am still building on this expertise as an analyst working to improve my models on wind power forecasting and refining past projects.  I have also joined a team to tackle this year’s Women in Data Science “Datathon Challenge - Adapting to Climate Change by Improving Extreme Weather Forecasts.”
+I am still building on this expertise as an analyst working to improve my models on wind power forecasting and refining past projects.  I have also joined a team to tackle this year’s Women in Data Science(WiDS) “Datathon Challenge - Adapting to Climate Change by Improving Extreme Weather Forecasts.”
 
 
 ### Contact me
