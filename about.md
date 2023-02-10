@@ -10,7 +10,7 @@ An avenue to accomplish this presented itself four years ago when I was introduc
 
 The course required long hours, maximum effort, and fast-paced deadlines, but the experience was just as fun and rewarding.  I never thought I could forge such strong bonds through a computer screen. 
 
-Some of the projects  that I completed to earn the diploma included:
+Some of the projects that I completed to earn the diploma included:
 - an investigation modeling West Nile Virus prevalence in the Chicago metro area
 - an analysis of Bixi Bike Rental traffic in the Montreal metro area
 - the development of a more accessible Google Alerts web service
@@ -18,7 +18,7 @@ Some of the projects  that I completed to earn the diploma included:
 - a data wrangling endeavor to visualize a large dataset from Google Books Ngram
 - the production of predictive models to forecast wind power from an EDP Renewables wind farm. 
 
-I am still building on this expertise as an analyst working to improve my models on wind power forecasting and refining past projects.  I have also joined a team to tackle this year’s Women in Data Science(WiDS) “Datathon Challenge - Adapting to Climate Change by Improving Extreme Weather Forecasts.”
+I am still building on this expertise as an analyst working to improve my models on wind power forecasting and refining past projects.  I have also joined a team to tackle this year’s Women in Data Science “Datathon Challenge - Adapting to Climate Change by Improving Extreme Weather Forecasts.”
 
 
 ### Contact me
