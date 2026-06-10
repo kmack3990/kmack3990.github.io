@@ -33,9 +33,3 @@ In pursuit of sustainable, data-driven solutions, I continue to expand my skills
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="36" height="36" alt="Power BI" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-
-
-
-### Socials
-
-<p align="left"> <a href="https://github.com/kmack3990" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kileymack/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
