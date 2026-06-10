@@ -5,7 +5,7 @@ date: 2026-6-10
 preview: true
 ---
 
-<img src="/images/cpd-denver.png" width="50%">
+<img src="/images/cpd-denver.png" width="40%">
 
 ### My Time with the City of Denver
 
