@@ -36,6 +36,6 @@ In pursuit of sustainable, data-driven solutions, I continue to expand my skills
 
 
 
-### Contact me
+### Socials
 
-[kileyjmack@gmail.com](mailto:kileyjmack@gmail.com)
+<p align="left"> <a href="https://github.com/kmack3990" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kileymack/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
