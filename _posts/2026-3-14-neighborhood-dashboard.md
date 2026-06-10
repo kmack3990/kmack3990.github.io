@@ -24,18 +24,6 @@ To accomplish this, I applied a combination of traditional time series approache
 In parallel, I led the development of the Development Services Teams dashboard, which brought together multiple operational teams into a single unified analytical view for the first time. Prior to this effort, data was largely siloed across different reporting structures, making it difficult to understand cross-team performance and dependencies.
 By integrating these datasets into a single Power BI dashboard, I was able to create a shared source of truth that improved visibility across teams and leadership. This dashboard has since been adopted agency-wide and is now used as a reference model for other departments seeking to build similar reporting tools. The most rewarding part of this work has been seeing it evolve from a technical build into a widely used operational asset that supports real decision-making.
 
-Across all of these projects, the common thread has been transformation. Transformation meaning turning fragmented or complex datasets into structured systems that people can actually use. Whether it is building scalable data pipelines, designing forecasting models, or developing enterprise dashboards, I continue to focus on creating solutions that are not only technically sound but also durable and practical in real-world government operations.
-
-
-
-
-
-After 12 intense weeks of long nights and no weekends learning the in’s and out’s of data science at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp), I submitted my capstone project on Wind Power Forecasting. I am calling this my initial report.  As there is still quite a bit more that I want to do with this project.  My preliminary findings can be found here at my [Github](https://github.com/kmack3990).
-
-
 ![_config.yml](/images/noisy_data.jpg)
 
-
-
-![_config.yml](/images/walk_forward_validation_function.jpg)
-
+Across all of these projects, the common thread has been transformation. Transformation meaning turning fragmented or complex datasets into structured systems that people can actually use. Whether it is building scalable data pipelines, designing forecasting models, or developing enterprise dashboards, I continue to focus on creating solutions that are not only technically sound but also durable and practical in real-world government operations.
