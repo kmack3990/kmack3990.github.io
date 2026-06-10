@@ -21,9 +21,11 @@ That work ultimately contributed to the development of public-facing neighborhoo
 Another major area of focus has been forecasting and predictive analytics. One of the most impactful projects I worked on involved modeling departmental log volumes to better understand workload distribution across teams. The objective was to forecast future demand at weekly, monthly, and yearly horizons so that teams could better anticipate staffing needs and operational capacity.
 To accomplish this, I applied a combination of traditional time series approaches and machine learning techniques using Python. This included experimenting with models that could capture both trend and variability in operational data, as well as testing how different aggregation levels influenced forecast stability. The result was a forecasting framework that provided actionable insights into workload patterns and helped inform more proactive resource planning across the department.
 
+![_config.yml](/images/LogVolForecast.png)
+
 In parallel, I led the development of the Development Services Teams dashboard, which brought together multiple operational teams into a single unified analytical view for the first time. Prior to this effort, data was largely siloed across different reporting structures, making it difficult to understand cross-team performance and dependencies.
 By integrating these datasets into a single Power BI dashboard, I was able to create a shared source of truth that improved visibility across teams and leadership. This dashboard has since been adopted agency-wide and is now used as a reference model for other departments seeking to build similar reporting tools. The most rewarding part of this work has been seeing it evolve from a technical build into a widely used operational asset that supports real decision-making.
 
-![_config.yml](/images/noisy_data.jpg)
+![_config.yml](/images/DSTeams.png)
 
 Across all of these projects, the common thread has been transformation. Transformation meaning turning fragmented or complex datasets into structured systems that people can actually use. Whether it is building scalable data pipelines, designing forecasting models, or developing enterprise dashboards, I continue to focus on creating solutions that are not only technically sound but also durable and practical in real-world government operations.
