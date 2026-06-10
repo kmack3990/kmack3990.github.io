@@ -18,7 +18,7 @@ This required building a full pipeline to scrape, clean, and standardize ACS dat
 That work ultimately contributed to the development of public-facing neighborhood dashboards, which translate complex datasets into accessible insights for residents, planners, and policymakers. These dashboards allow users to explore neighborhood-level trends in housing, demographics, and development activity through a centralized interface.
 [Neighborhood Dashboard](https://www.denvergov.org/Community/Neighborhoods/Neighborhood-Dashboards)
 
-<img src="/images/NeighborhoodJPEG.jpg" width="50%">
+<img src="/images/neighborhoodJPEG.jpg" width="50%">
 
 Another major area of focus has been forecasting and predictive analytics. One of the most impactful projects I worked on involved modeling departmental log volumes to better understand workload distribution across teams. The objective was to forecast future demand at weekly, monthly, and yearly horizons so that teams could better anticipate staffing needs and operational capacity.
 To accomplish this, I applied a combination of traditional time series approaches and machine learning techniques using Python. This included experimenting with models that could capture both trend and variability in operational data, as well as testing how different aggregation levels influenced forecast stability. The result was a forecasting framework that provided actionable insights into workload patterns and helped inform more proactive resource planning across the department.
