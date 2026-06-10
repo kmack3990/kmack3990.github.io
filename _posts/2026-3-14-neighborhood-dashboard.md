@@ -5,7 +5,7 @@ date: 2026-6-10
 preview: true
 ---
 
-![_config.yml](/images/cpd-denver.png)
+<img src="/images/cpd-denver.png" width="50%">
 
 ### My Time with the City of Denver
 
@@ -21,7 +21,7 @@ That work ultimately contributed to the development of public-facing neighborhoo
 Another major area of focus has been forecasting and predictive analytics. One of the most impactful projects I worked on involved modeling departmental log volumes to better understand workload distribution across teams. The objective was to forecast future demand at weekly, monthly, and yearly horizons so that teams could better anticipate staffing needs and operational capacity.
 To accomplish this, I applied a combination of traditional time series approaches and machine learning techniques using Python. This included experimenting with models that could capture both trend and variability in operational data, as well as testing how different aggregation levels influenced forecast stability. The result was a forecasting framework that provided actionable insights into workload patterns and helped inform more proactive resource planning across the department.
 
-![_config.yml](/images/LogVolForecast.png)
+<img src="/images/LogVolForecast.png" width="50%">
 
 In parallel, I led the development of the Development Services Teams dashboard, which brought together multiple operational teams into a single unified analytical view for the first time. Prior to this effort, data was largely siloed across different reporting structures, making it difficult to understand cross-team performance and dependencies.
 By integrating these datasets into a single Power BI dashboard, I was able to create a shared source of truth that improved visibility across teams and leadership. This dashboard has since been adopted agency-wide and is now used as a reference model for other departments seeking to build similar reporting tools. The most rewarding part of this work has been seeing it evolve from a technical build into a widely used operational asset that supports real decision-making.
