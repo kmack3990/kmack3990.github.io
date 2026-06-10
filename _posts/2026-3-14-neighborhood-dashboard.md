@@ -4,41 +4,34 @@ title: Working with the City of Denver at CPD
 date: 2026-6-10
 preview: true
 ---
+
+Since stepping into my role with Community Planning and Development at the City of Denver, I have had the opportunity to work across a wide range of projects that sit at the intersection of data engineering, analytics, and applied machine learning. What has stood out most is how deeply data can influence both day-to-day operational decisions and long-term strategic planning when it is structured, accessible, and thoughtfully communicated.
+
+Early on, I focused heavily on building a foundation for scalable, transparent data systems that could be used across teams. One of my first major initiatives involved working with American Community Survey (ACS) data. The goal was to take highly granular demographic and socioeconomic data and transform it into a format that could be meaningfully used by planners and decision-makers across the city.
+
+This required building a full pipeline to scrape, clean, and standardize ACS data, followed by aggregations at multiple geographic levels, including census tracts, neighborhoods, NPI-level groupings, and citywide summaries. The challenge was not just technical—it was about ensuring consistency across geographic boundaries and making the data intuitive for non-technical users. The end result was a scalable dataset that could support multiple analytical use cases and reporting needs across CPD.
+
+That work ultimately contributed to the development of public-facing neighborhood dashboards, which translate complex datasets into accessible insights for residents, planners, and policymakers. These dashboards allow users to explore neighborhood-level trends in housing, demographics, and development activity through a centralized interface.
+[Neighborhood Dashboard]https://www.denvergov.org/Community/Neighborhoods/Neighborhood-Dashboards
+
+Another major area of focus has been forecasting and predictive analytics. One of the most impactful projects I worked on involved modeling departmental log volumes to better understand workload distribution across teams. The objective was to forecast future demand at weekly, monthly, and yearly horizons so that teams could better anticipate staffing needs and operational capacity.
+To accomplish this, I applied a combination of traditional time series approaches and machine learning techniques using Python. This included experimenting with models that could capture both trend and variability in operational data, as well as testing how different aggregation levels influenced forecast stability. The result was a forecasting framework that provided actionable insights into workload patterns and helped inform more proactive resource planning across the department.
+
+In parallel, I led the development of the Development Services Teams dashboard, which brought together multiple operational teams into a single unified analytical view for the first time. Prior to this effort, data was largely siloed across different reporting structures, making it difficult to understand cross-team performance and dependencies.
+By integrating these datasets into a single Power BI dashboard, I was able to create a shared source of truth that improved visibility across teams and leadership. This dashboard has since been adopted agency-wide and is now used as a reference model for other departments seeking to build similar reporting tools. The most rewarding part of this work has been seeing it evolve from a technical build into a widely used operational asset that supports real decision-making.
+
+Across all of these projects, the common thread has been transformation. Transformation meaning turning fragmented or complex datasets into structured systems that people can actually use. Whether it is building scalable data pipelines, designing forecasting models, or developing enterprise dashboards, I continue to focus on creating solutions that are not only technically sound but also durable and practical in real-world government operations.
+
+
+
 ![_config.yml](/images/cpd-denver.png)
 
 After 12 intense weeks of long nights and no weekends learning the in’s and out’s of data science at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp), I submitted my capstone project on Wind Power Forecasting. I am calling this my initial report.  As there is still quite a bit more that I want to do with this project.  My preliminary findings can be found here at my [Github](https://github.com/kmack3990).
 
-### Picking my Project Topic and Time Series Modeling
-
-Everyday we are seeing the impacts of climate change from droughts in the Western United States to coral bleaching throughout our international waters.  The consensus is that we need to take drastic action to reduce our carbon footprint and our reliance on fossil fuels.  I wanted to find a project that would develop a tool set in data science that can help to solve this current environmental predicament.  
-
-I sifted through ideas on energy efficiency and different renewable energy projects, and finally landed on wind power forecasting.  Wind power is an energy resource that continues to take on a larger piece of our electricity generation portfolio.  Unfortunately, the wind does not blow all the time.  If electric grid operators can be informed by more accurate wind forecasts, they can make better decisions on when to revert to other power sources such as battery storage.  According to Shouman’s 2022 report on wind forecasting, as little as a 1% error in forecasted wind speeds could result in a loss of $12,000,000 during a wind facilities life cycle (Shouman, 2022).
-
-Any sort of forecasting incorporates data collection over time.  I was aware that time series modeling incorporated an increased level of rigor, but I didn’t really know what this added level of difficulty entailed. 
-
-### What Did I Learn from Forecasting Wind Power?
- 
-* Exploratory Data Analysis and Data Processing continues to be fun!
-* Predicting the future is hard. 
-* Jason Brownlee’s “Machine Learning Mastery” Blog is a great resource.
-* Time series modeling is a code that I am still working to fully crack.
-* I am excited to now have the time to dig deeper into time series modeling with this project and the WiDS Datathon.
-
-In my capstone project, I analyzed power and meteorological metrics measured from four turbines in EDP Renewables Wind Farm 1.  Cleaning the large data set and uncovering the distributions and correlations among the features was time consuming and some might say arduous.  I, on other the hand, continue to find this process soothing and enlightening.  In all my projects, I truly enjoy uncovering problems and solutions within the data, as well as finding intriguing patterns.     
-
-The data signals in this project had no trend, seasonality, or obvious cyclical pattern.  The nature of the data made traditional time series models such as ARIMA models like the SARIMAX have little predictive power.  
 
 ![_config.yml](/images/noisy_data.jpg)
 
-I adapted a process from some of Jason Brownlee’s work on time series analysis.  The concept uses a shifting window to read through a time series, frame by frame, to predict a certain number of time steps out from a number of previous time steps.  This allowed me to transform my dataset to establish an independent and dependent variable for machine learning.  
 
-Using Brownlee’s shifting window method and a walk forward validation process, I fit a variety of machine learning models.  I received the best results validating Random Forest Regressor Models and vanilla LSTM models.  
 
 ![_config.yml](/images/walk_forward_validation_function.jpg)
-
-My sticking point right now is developing a pipeline and grid search to comprehensively tune these models.  Although I have developed methods to tune one hyperparameter at a time using the walk forward validation techniques, I have yet to fully implement a machine learning pipeline to comprehensively attack the variety of hyperparameters.  Setting up a pipeline and grid search is generally straightforward with machine learning data that has independent variables and dependent variables that are not related through the dimension of time.  I am still developing strategies to incorporate the walk forward validation in time series data to a machine learning pipeline.  
-
-Having graduated from BrainStation, I plan to really come up with some solutions on how to merge walk forward validation and pipelines to strengthen models on this project.  I have also joined a team to continue this challenge in the Women in Data Science (WiDS) 2023 “Datathon Challenge: Adapting to Climate Change by Improving Extreme Weather Forecasts.”  This datathon will further my experience and grow my expertise analyzing time series data.  
-
-I am excited for my next post with solutions to strengthen predictive time series models using walk forward validation and transformed time series data. 
 
