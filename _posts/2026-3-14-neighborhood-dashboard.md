@@ -4,7 +4,7 @@ title: Working with the City of Denver at CPD
 date: 2026-6-10
 preview: true
 ---
-![_config.yml](/images/XXXXXXX)
+![_config.yml](/images/cpd-denver.png)
 
 After 12 intense weeks of long nights and no weekends learning the in’s and out’s of data science at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp), I submitted my capstone project on Wind Power Forecasting. I am calling this my initial report.  As there is still quite a bit more that I want to do with this project.  My preliminary findings can be found here at my [Github](https://github.com/kmack3990).
 
