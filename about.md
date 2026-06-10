@@ -4,21 +4,23 @@ title: About
 permalink: /about/
 ---
 
-I have spent most of my professional career as a science educator and leader.  I loved watching young faces become intrigued when seeing a new phenomena or observing confidence grow after completing a rigorous project.   In my years as an educator, I always sought out new challenges teaching all disciplines of science, overhauling the AP Physics program at Denver South High, and seeking out leadership opportunities.  I spent a number of summers as a teacher research intern at the National Renewable Energy Laboratory working with Dr. Melvin Tucker analyzing biomass for ethanol production.  With the drive to seek out new challenges, I wanted to merge my communication and collaboration skills built through science instruction and school leadership with my passion for analysis and problem solving. 
+Since being introduced to computer programming by some of my AP Physics students in 2015, coding with Python and its libraries has been a hobby of mine. In 2022, I decided to turn that hobby into a career path, and in December 2022, I graduated from BrainStation with a Diploma in Data Science.
 
-An avenue to accomplish this presented itself four years ago when I was introduced to computer programming and the power of data science/analytics by some of my students in our STEM club.  Since that time the subject has been a hobby of mine.  Through the pandemic, I have waited for an opportunity to advance this hobby into a career with the right in-person school.  When I found the BrainStation Data Science Diploma Online Bootcamp, I knew I had found the best alternative to an in-person program.  Fast forward to December 2022, I have graduated from BrainStation with an ever growing expertise in data science/analytics.
+Since earning my Diploma, I have worked as a Data Analytics Senior for Community Planning and Development with the City of Denver. In this role, I continue to be inspired by the ever-evolving capabilities of modern data analytics and data science, contributing to projects across the entire data lifecycle, from data engineering to data science.
 
-The course required long hours, maximum effort, and fast-paced deadlines, but the experience was just as fun and rewarding.  I never thought I could forge such strong bonds through a computer screen. 
+In pursuit of sustainable, data-driven solutions, I continue to expand my skills in collecting, wrangling, analyzing, modeling, and communicating data using an ever-growing set of tools and technologies. Some of this expertise includes:
+• Fluency in programming and query languages, including SQL, Python, DAX, and Power Query (M)
+• Building data visualizations and interactive dashboards using Tableau, Power BI, Matplotlib, and Plotly
+• Statistical modeling and machine learning with Statsmodels, Scikit-learn, and TensorFlow
+• Data engineering and data pipeline development using Snowflake, along with web scraping and data acquisition using Beautiful Soup and Scrapy
 
-Some of the projects that I completed to earn the diploma included:
-- an investigation modeling West Nile Virus prevalence in the Chicago metro area
-- an analysis of Bixi Bike Rental traffic in the Montreal metro area
-- the development of a more accessible Google Alerts web service
-- a sentiment analysis using Natural Language Processing (NLP) to classify hotel reviews 
-- a data wrangling endeavor to visualize a large dataset from Google Books Ngram
-- the production of predictive models to forecast wind power from an EDP Renewables wind farm. 
 
-I am still building on this expertise as an analyst working to improve my models on wind power forecasting and refining past projects.  I have also joined a team to tackle this year’s Women in Data Science(WiDS) “Datathon Challenge - Adapting to Climate Change by Improving Extreme Weather Forecasts.”
+Interests
+💻 I want to continue to work in the Denver, CO or remotely.
+🔭 Currently, I am really enjoying my work with CPD at the City of Denver.
+🧠 I am always trying to learn everything data science/analytics.
+🌄 I love to be outside with friends and family hiking, biking, or skiing.
+
 
 
 ### Contact me
