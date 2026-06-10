@@ -5,6 +5,10 @@ date: 2026-6-10
 preview: true
 ---
 
+![_config.yml](/images/cpd-denver.png)
+
+### My Time with the City of Denver
+
 Since stepping into my role with Community Planning and Development at the City of Denver, I have had the opportunity to work across a wide range of projects that sit at the intersection of data engineering, analytics, and applied machine learning. What has stood out most is how deeply data can influence both day-to-day operational decisions and long-term strategic planning when it is structured, accessible, and thoughtfully communicated.
 
 Early on, I focused heavily on building a foundation for scalable, transparent data systems that could be used across teams. One of my first major initiatives involved working with American Community Survey (ACS) data. The goal was to take highly granular demographic and socioeconomic data and transform it into a format that could be meaningfully used by planners and decision-makers across the city.
@@ -24,7 +28,7 @@ Across all of these projects, the common thread has been transformation. Transfo
 
 
 
-![_config.yml](/images/cpd-denver.png)
+
 
 After 12 intense weeks of long nights and no weekends learning the in’s and out’s of data science at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp), I submitted my capstone project on Wind Power Forecasting. I am calling this my initial report.  As there is still quite a bit more that I want to do with this project.  My preliminary findings can be found here at my [Github](https://github.com/kmack3990).
 
